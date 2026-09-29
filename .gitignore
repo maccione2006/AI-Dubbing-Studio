@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project state
+/data/
+/tmp/
+/models/
+/logs/
+
+# Local runtime config
+.env.local
+.env.development
+.env.production
